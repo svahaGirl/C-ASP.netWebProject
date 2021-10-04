@@ -15,4 +15,11 @@
 # Mac book look like below:
 ## ![image](https://user-images.githubusercontent.com/56694905/135782684-b420c200-31b5-4635-9c28-241120a5687e.png)
 
+##--------------------------------------------------------------------------- 
+## First time run it: You can click privacy or home.
+## ![image](https://user-images.githubusercontent.com/56694905/135784141-1eb5df32-8e58-4755-9419-a61a1199a056.png)
+
+## ![image](https://user-images.githubusercontent.com/56694905/135783556-cc8d21da-7634-4dc6-905c-4f71f9a16455.png)
+
+
 
